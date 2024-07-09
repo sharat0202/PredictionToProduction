@@ -1,13 +1,13 @@
 {
 	"data":[
 			{
-				"Pregnancies":1,
-				"Glucose":89,
-				"BloodPressure":66,	
-				"SkinThickness":23,	
+				"Pregnancies":0,
+				"Glucose":99,
+				"BloodPressure":96,	
+				"SkinThickness":43,	
 				"Insulin":94,	
-				"BMI":28.1,	
-				"DiabetesPedigreeFunction":0.167,	
+				"BMI":38.1,	
+				"DiabetesPedigreeFunction":0.367,	
 				"Age":50
 			}
 		]
